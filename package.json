@@ -2,7 +2,7 @@
   "name": "mini-mailgun",
   "version": "0.1.0",
   "description": "A lightweight Mailgun API client  for Node.js.",
-  "main": "index.js",
+  "main": "./lib/mini-mailgun.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
